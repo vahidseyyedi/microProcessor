@@ -6,7 +6,7 @@
 ## شماتیک مدار
 ![توضیح تصویر](https://github.com/vahidseyyedi/microProcessor/blob/main/01/Presentation1.jpg)
 ## تجهیزات مورد نیاز
-* برد آردوینو (UNO یا مشابه)
+* برد آردوینو (UNO)
 * LED
 * مقاومت ۲۲۰ اهم
 * جامپر
