@@ -1,4 +1,4 @@
 # آزمایشگاه ریزپردازنده
 ## جلسات منتشر شده
-* (# جلسه اول)[ https://github.com/vahidseyyedi/microProcessor/tree/main/01 ]
-
+* [ https://github.com/vahidseyyedi/microProcessor/tree/main/01 ]
+(# جلسه اول)
