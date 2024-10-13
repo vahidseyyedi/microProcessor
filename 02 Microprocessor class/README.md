@@ -21,7 +21,7 @@ if(a == "H" || a == "h"): اگر کاراکتر خوانده شده "H" بزرگ
 else if(a == "L" || a == "l"): اگر کاراکتر خوانده شده "L" بزرگ یا کوچک باشد، LED را خاموش می‌کند.
 
 ## شماتیک مدار
-![توضیح تصویر](https://github.com/vahidseyyedi/microProcessor/blob/main/02%20Microprocessor%20class/map.png)
+![توضیح تصویر](https://github.com/vahidseyyedi/microProcessor/blob/main/02%20Microprocessor%20class/map%201.png)
 
 # تمرین 2 : on or off
 در این تمرین، به بررسی عملکرد برنامه‌ای پرداخته‌ایم که به کاربر اجازه می‌دهد تا با ارسال کلمات "on" یا "off" از طریق Serial Monitor، یک چراغ LED متصل به برد آردوینو را روشن یا خاموش کند. این تمرین، مفهوم اولیه ارتباط سریال و کنترل سخت‌افزار از طریق نرم‌افزار را به خوبی نشان می‌دهد.
