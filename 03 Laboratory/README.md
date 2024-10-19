@@ -29,8 +29,8 @@
 
 ## تصاویر
 
-!()[https://github.com/vahidseyyedi/microProcessor/blob/main/03%20Laboratory/src/2.jpg]
-!()[https://github.com/vahidseyyedi/microProcessor/blob/main/03%20Laboratory/src/vid%2001.gif]
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/03%20Laboratory/src/2.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/03%20Laboratory/src/vid%2001.gif)
 
 # گزارش کار: پروژه کنترل LED با کلید
 ## مقدمه
@@ -60,6 +60,6 @@ LED به یک پایه خروجی آردوینو (در این مثال، پای�
 
 ## تصاویر
 
-!()[https://github.com/vahidseyyedi/microProcessor/blob/main/03%20Laboratory/src/map_freetzle.jpg]
-!()[https://github.com/vahidseyyedi/microProcessor/blob/main/03%20Laboratory/src/vid%2002.gif]
-!()[]
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/03%20Laboratory/src/map_freetzle.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/03%20Laboratory/src/vid%2002.gif)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/03%20Laboratory/src/3.jpg)
