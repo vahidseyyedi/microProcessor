@@ -63,3 +63,5 @@ LED به یک پایه خروجی آردوینو (در این مثال، پای�
 ![](https://github.com/vahidseyyedi/microProcessor/blob/main/03%20Laboratory/src/map_freetzle.jpg)
 ![](https://github.com/vahidseyyedi/microProcessor/blob/main/03%20Laboratory/src/vid%2002.gif)
 ![](https://github.com/vahidseyyedi/microProcessor/blob/main/03%20Laboratory/src/3.jpg)
+این تصویر از گروه پارسا بهجتی و کامیار حاج محمدنیا برداشنه شده (به دلیل نبود عکس)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/03%20Laboratory/src/vid%2002.gif)
