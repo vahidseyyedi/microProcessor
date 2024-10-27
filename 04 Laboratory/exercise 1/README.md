@@ -1,4 +1,5 @@
 # پروژه نمایشگر الگوهای LED با کنترل دکمه
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/04%20Laboratory/exercise%201/src/Slide1.JPG)
 ## شرح پروژه
 این پروژه آردوینو، نمایش الگوهای LED با کنترل دکمه را به سادگی پیاده سازی می کند. کد از یک آرایه دو بعدی برای ذخیره الگوهای LED استفاده می کند و با پیمایش این آرایه، وضعیت LED ها را کنترل می کند.
 
@@ -9,7 +10,10 @@
 مقاومت (برای محدود کردن جریان LED)
 
 ## شماتیک مدار
-!()[]
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/04%20Laboratory/exercise%201/src/map%201.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/04%20Laboratory/exercise%201/src/1.3.gif)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/04%20Laboratory/exercise%201/src/1.1.jpg)
+
 
 ## توضیح کد
 
