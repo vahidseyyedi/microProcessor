@@ -10,7 +10,8 @@
 نرم‌افزار Arduino IDE
 
 ## مدار
-
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/04%20Laboratory/exercise%204/src/map4.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/04%20Laboratory/exercise%204/src/4.1.gif)
 ## توضیح کد
 * led: برای تعیین پین خروجی LED
 * val: برای ذخیره مقدار خوانده شده از ورودی آنالوگ
