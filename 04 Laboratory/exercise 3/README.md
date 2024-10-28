@@ -10,7 +10,10 @@
 سیم‌های جامپر
 
 # مدار
-[در این قسمت می‌توانید یک شماتیک مدار قرار دهید یا از ابزاری مانند Fritzing برای ساخت آن استفاده کنید.]
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/04%20Laboratory/exercise%203/src/map3.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/04%20Laboratory/exercise%203/src/3.2.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/04%20Laboratory/exercise%203/src/3.1.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/04%20Laboratory/exercise%203/src/3.3.gif)
 
 # شرح مدار
 پتانسیومتر به ورودی آنالوگ A0 آردوینو متصل می‌شود. خروجی پتانسیومتر ولتاژی متناسب با چرخش آن تولید می‌کند که این ولتاژ به عنوان ورودی آنالوگ خوانده می‌شود. LED نیز به یکی از پین‌های PWM آردوینو متصل می‌شود.
