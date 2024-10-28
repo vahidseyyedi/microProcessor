@@ -10,6 +10,10 @@
 سیم‌های جامپر
 
 ## شماتیک مدار
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/04%20Laboratory/exercise%202/src/map2.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/04%20Laboratory/exercise%202/src/2.1.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/04%20Laboratory/exercise%202/src/2.2.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/04%20Laboratory/exercise%202/src/2.3.gif)
 
 ## توضیح کد
 * pinLed[]: آرایه‌ای برای ذخیره شماره پین‌های متصل به LEDها.
