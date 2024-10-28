@@ -9,7 +9,9 @@ LED
 سیم‌های جامپر
 نرم‌افزار Arduino IDE
 ## مدار
-
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/04%20Laboratory/exercise%205/src/map5.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/04%20Laboratory/exercise%205/src/5.1.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/04%20Laboratory/exercise%205/src/5.2.gif)
 
 ## توضیح کد
 * led: برای تعیین پین خروجی LED
