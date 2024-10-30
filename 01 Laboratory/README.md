@@ -49,7 +49,7 @@ delay(2000);
 * در کل این برنامه کاری می‌کند که LED متصل به پین 13 به صورت متناوب هر 2 ثانیه یکبار روشن و خاموش شود.
 
 ## شماتیک مدار
-![توضیح تصویر](https://github.com/vahidseyyedi/microProcessor/blob/main/01/Presentation1.jpg)
+![توضیح تصویر](https://github.com/vahidseyyedi/microProcessor/blob/main/01%20Laboratory/Presentation1.jpg)
 ## تجهیزات مورد نیاز
 * برد آردوینو (UNO)
 * LED
