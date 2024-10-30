@@ -25,6 +25,8 @@
 ## شماتیک مدار
 ![توضیح تصویر](https://github.com/vahidseyyedi/microProcessor/blob/main/02%20Laboratory/img/map%201.png)
 ![alt text](https://github.com/vahidseyyedi/microProcessor/blob/main/02%20Laboratory/img/l.e%201.gif)
+
+
 مقاومت‌ها برای محدود کردن جریان عبوری از LEDها و جلوگیری از آسیب دیدن آن‌ها استفاده می‌شوند.
 یک سر هر LED به یک پایه دیجیتال میکروکنترلر و سر دیگر آن به مقاومت متصل می‌شود.
 سر آزاد مقاومت نیز به زمین متصل می‌شود.
