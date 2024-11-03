@@ -40,8 +40,8 @@ void loop() {
 
 **شماتیک مدار:**
 
-![alt text](https://github.com/vahidseyyedi/microProcessor/blob/main/02%20Laboratory/img/l.e%202.gif)
 ![توضیح تصویر](https://github.com/vahidseyyedi/microProcessor/blob/main/02%20Laboratory/img/map%201.png)
+![alt text](https://github.com/vahidseyyedi/microProcessor/blob/main/02%20Laboratory/img/l.e%202.gif)
 
 
 **توضیحات شماتیک:**
