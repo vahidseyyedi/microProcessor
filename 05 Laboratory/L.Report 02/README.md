@@ -75,6 +75,9 @@ void loop() {
     * بخش اختیاری مربوط به استفاده از پتانسیومتر برای ایجاد افکت حرکتی در کد اصلی موجود است.
 
 **3. شماتیک مدار:**
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/05%20Laboratory/L.Report%2001/src/map%201.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/05%20Laboratory/L.Report%2002/src/2.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/05%20Laboratory/L.Report%2002/src/2.gif)
 
 
 **4. نتیجه‌گیری:**
