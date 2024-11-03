@@ -42,6 +42,7 @@ void loop() {
 * **کنترل LED:** بر اساس مقدار رشته دریافتی، LED روشن یا خاموش می‌شود. اگر رشته دریافتی "on" باشد، LED روشن و اگر رشته دریافتی "off" باشد، LED خاموش می‌شود.
 
 **تصاویر:**
+
 ![توضیح تصویر](https://github.com/vahidseyyedi/microProcessor/blob/main/02%20Laboratory/img/map%202.png)
 
 **توضیحات شماتیک:**

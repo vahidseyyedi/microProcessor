@@ -42,6 +42,7 @@ void loop() {
 * **کنترل LED:** بر اساس مقدار کاراکتر دریافتی، LED روشن یا خاموش می‌شود. اگر کاراکتر H یا h باشد، LED روشن و اگر کاراکتر L یا l باشد، LED خاموش می‌شود.
 
 **تصاویر:**
+
 ![توضیح تصویر](https://github.com/vahidseyyedi/microProcessor/blob/main/02%20Laboratory/img/map%202.png)
 
 

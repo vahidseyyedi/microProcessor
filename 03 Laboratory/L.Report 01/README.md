@@ -37,6 +37,7 @@ void loop() {
 * **delay(10);:** این دستور باعث می‌شود که برنامه به مدت 10 میلی ثانیه مکث کند تا بتوان داده‌ها را به راحتی در سریال مانیتور مشاهده کرد.
 
 **تصاویر:**
+
 ![](https://github.com/vahidseyyedi/microProcessor/blob/main/03%20Laboratory/src/2.jpg)
 ![](https://github.com/vahidseyyedi/microProcessor/blob/main/03%20Laboratory/src/vid%2001.gif)
 

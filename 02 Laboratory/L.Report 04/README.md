@@ -29,6 +29,7 @@ void loop() {
 * **delay(1000):** این دستور باعث می‌شود که برنامه به مدت 1000 میلی‌ثانیه (1 ثانیه) مکث کند و سپس دوباره پیام ارسال شود.
 
 **تصاویر:**
+
 ![توضیح تصویر](https://github.com/vahidseyyedi/microProcessor/blob/main/02%20Laboratory/img/map%202.png)
 
 **نتیجه‌گیری:**
