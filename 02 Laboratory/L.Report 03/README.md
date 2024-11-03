@@ -38,6 +38,7 @@ void loop() {
 * **کنترل LEDها:** در تابع `loop`، LED اول دائماً خاموش و LED دوم دائماً روشن نگه داشته می‌شود. از آنجایی که تابع `loop` به صورت مداوم تکرار می‌شود، این حالت ثابت حفظ خواهد شد.
 
 **شماتیک مدار:**
+
 ![توضیح تصویر](https://github.com/vahidseyyedi/microProcessor/blob/main/02%20Laboratory/img/map%201.png)
 ![alt text](https://github.com/vahidseyyedi/microProcessor/blob/main/02%20Laboratory/img/l.e%203.gif)
 
