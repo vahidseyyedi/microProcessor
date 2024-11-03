@@ -39,8 +39,10 @@ void loop() {
 * **کنترل LEDها:** در تابع `loop`، ابتدا هر دو LED روشن شده و سپس به مدت 5 ثانیه روشن می‌مانند. پس از آن، هر دو LED خاموش شده و به مدت 0.5 ثانیه خاموش می‌مانند. این چرخه به طور مداوم تکرار می‌شود.
 
 **شماتیک مدار:**
+
 ![توضیح تصویر](https://github.com/vahidseyyedi/microProcessor/blob/main/02%20Laboratory/img/map%201.png)
 ![alt text](https://github.com/vahidseyyedi/microProcessor/blob/main/02%20Laboratory/img/l.e%201.gif)
+
 
 **توضیحات شماتیک:**
 * مقاومت برای محدود کردن جریان عبوری از LEDها استفاده می‌شود و از سوختن آن‌ها جلوگیری می‌کند. مقدار مقاومت بستگی به ولتاژ تغذیه و مشخصات LED دارد.
