@@ -64,7 +64,8 @@ void loop() {
     * نتیجه محاسبه شده روی نمایشگر LCD نمایش داده می‌شود.
 
 **3. شماتیک مدار:**
-
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/05%20Laboratory/L.Report%2004/src/map%201.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/05%20Laboratory/L.Report%2004/src/4.gif)
 
 **4. نتیجه‌گیری:**
 
