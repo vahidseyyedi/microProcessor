@@ -43,7 +43,9 @@ void loop() {
     * با استفاده از تابع delay، بین هر تغییر موقعیت، یک مکث کوتاه ایجاد می‌شود تا انیمیشن روان‌تر به نظر برسد.
 
 **3. شماتیک مدار:**
-
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/05%20Laboratory/L.Report%2001/src/map%201.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/05%20Laboratory/L.Report%2003/src/2.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/05%20Laboratory/L.Report%2003/src/3.gif)
 
 **4. نتیجه‌گیری:**
 
