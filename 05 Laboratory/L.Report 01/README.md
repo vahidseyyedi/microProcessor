@@ -46,7 +46,10 @@ void loop() {
     * **lcd.print("متن");:** این دستور متن مورد نظر را در مکان نما فعلی چاپ می‌کند.
 
 **3. شماتیک مدار:**
-![]()
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/05%20Laboratory/L.Report%2001/src/map%201.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/05%20Laboratory/L.Report%2001/src/1.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/05%20Laboratory/L.Report%2001/src/1.gif)
+
 
 **نتیجه‌گیری:**
 
