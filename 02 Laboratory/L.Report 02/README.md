@@ -39,7 +39,7 @@ void loop() {
 * **کنترل LEDها:** در تابع `loop`، ابتدا هر دو LED روشن شده و سپس به مدت 1 ثانیه روشن می‌مانند. پس از آن، هر دو LED خاموش شده و به مدت 1 ثانیه خاموش می‌مانند. این چرخه به طور مداوم تکرار می‌شود.
 
 **شماتیک مدار:**
-## شماتیک مدار
+
 ![alt text](https://github.com/vahidseyyedi/microProcessor/blob/main/02%20Laboratory/img/l.e%202.gif)
 ![توضیح تصویر](https://github.com/vahidseyyedi/microProcessor/blob/main/02%20Laboratory/img/map%201.png)
 
