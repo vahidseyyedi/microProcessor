@@ -93,7 +93,8 @@ void zeroTo100Backward() {
 *   توابع `ZeroTO100()` و `zeroTo100Backward()` با تغییر تدریجی مقدار PWM، سرعت موتور را از صفر تا حداکثر در هر دو جهت افزایش می‌دهند.
 
 **تصاویر:**
-
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/07%20Laboratory/L_Report_03/src/MAP.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/07%20Laboratory/L_Report_03/src/photo_2024-11-21_22-04-39.jpg)
 
 
 
