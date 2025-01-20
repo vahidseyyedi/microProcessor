@@ -72,8 +72,8 @@ void loop() {
 با اجرای این برنامه، اعداد 0 تا 9 و حروف A تا F به ترتیب و با فاصله یک ثانیه بر روی نمایشگر هفت قسمتی نمایش داده می‌شوند.
 
 **تصاویر:**
-
-
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/06%20Laboratory/L_Report_01/src/Untitled%20Sketch_bb.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/06%20Laboratory/L_Report_01/src/photo_2024-11-10_23-00-07.jpg)
 
 **نتیجه گیری:**
 
