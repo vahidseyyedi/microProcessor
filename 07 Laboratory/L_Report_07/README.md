@@ -67,7 +67,8 @@ void loop(){
 پس از آپلود کد بر روی برد آردوینو و باز کردن سریال مانیتور، با فشردن هر کلید بر روی صفحه کلید، کاراکتر مربوط به آن کلید در سریال مانیتور نمایش داده می‌شود.
 
 **تصاویر:**
-
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/07%20Laboratory/L_Report_07/src/Untitled%20Sketch%202_bb.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/07%20Laboratory/L_Report_07/src/video_2025-01-21_00-09-45.gif)
 
 **نتیجه‌گیری:**
 
