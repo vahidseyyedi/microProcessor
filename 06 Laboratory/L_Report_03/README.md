@@ -67,7 +67,8 @@ void loop() {
 با اجرای این برنامه، مقدار خوانده شده از LDR در سریال مانیتور نمایش داده می‌شود. همچنین، وضعیت LED بر اساس میزان نور محیط تغییر می‌کند. در محیط روشن، LED خاموش و در محیط تاریک، LED روشن می‌شود.
 
 **تصاویر:**
-
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/06%20Laboratory/L_Report_03/src/Untitled%20Sketch%202_bb.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/06%20Laboratory/L_Report_03/src/photo_2024-11-10_23-00-08%20(2).jpg)
 
 **نتیجه گیری:**
 
