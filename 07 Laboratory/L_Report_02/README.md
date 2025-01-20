@@ -69,7 +69,8 @@ void loop() {
 
 **تصاویر:**
 
-
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/07%20Laboratory/L_Report_02/src/Untitled%20Sketch%202_bb.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/07%20Laboratory/L_Report_02/src/video_2025-01-18_18-44-58%20(6).gif)
 
 
 **۶. نتیجه‌گیری:**
