@@ -60,7 +60,8 @@ void loop() {
 *   پین منفی (کاتد) LED به پین GND آردوینو.
 
 **تصاویر:**
-
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/07%20Laboratory/L_Report_09/src/Untitled%20Sketch_bb.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/07%20Laboratory/L_Report_09/src/video_2025-01-21_00-00-25.gif)
 
 **نتایج و آزمایش:**
 
