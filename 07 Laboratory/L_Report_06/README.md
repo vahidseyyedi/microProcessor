@@ -85,7 +85,8 @@ void loop() {
 7.  با حرکت دادن جوی‌استیک، مقادیر محورهای X و Y و وضعیت دکمه را در Serial Monitor مشاهده خواهید کرد. همچنین، با تغییر موقعیت محور Y، شدت نور LED تغییر خواهد کرد.
 
 **تصاویر:**
-
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/07%20Laboratory/L_Report_06/src/Untitled%20Sketch%202_bb.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/07%20Laboratory/L_Report_06/src/video_2025-01-20_22-13-41.gif)
 
 **نتیجه‌گیری:**
 
