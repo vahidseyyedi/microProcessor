@@ -142,7 +142,7 @@ void loop() {
 *   پایه‌های ستون‌های صفحه کلید (colPins) به پایه‌های دیجیتال 5، 4، 3 و 2 آردوینو متصل می‌شوند.
 
 **تصاویر:**
-
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/07%20Laboratory/L_Report_08/src/Untitled%20Sketch%202_bb.jpg)
 
 **نتایج و آزمایش:**
 
