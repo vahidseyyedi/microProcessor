@@ -71,8 +71,13 @@ void loop()
 *   هر یک از هفت قسمت نمایشگر (a تا g) به یک پین دیجیتال آردوینو (به ترتیب از پین 1 تا 7 مطابق با آرایه `segmentPins`) متصل می‌شود.
 *   پین مشترک نمایشگر (Common Cathode) به زمین (GND) آردوینو متصل می‌شود.
 *   **بسیار مهم:** هر قطعه از نمایشگر باید از طریق یک مقاومت محدود کننده جریان (معمولا 220 اهم) به پین آردوینو متصل شود، مگر اینکه از ماژول های آماده seven segment استفاده کنید. اگر `resistorsOnSegments` را true قرار داده اید و ماژول شما مقاومت ندارد، حتما باید مقاومت ها را قرار دهید.
+** تصاویر: **
 
-**نتایج:**
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/06%20Laboratory/L_Report_02/src/Untitled%20Sketch_bb.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/06%20Laboratory/L_Report_02/src/photo_2024-11-10_23-00-08.jpg)
+
+
+  **نتایج:**
 
 با اجرای این برنامه، اعداد 0 تا 9 به ترتیب و با فاصله 2 ثانیه بر روی نمایشگر هفت قسمتی نمایش داده می‌شوند.
 
