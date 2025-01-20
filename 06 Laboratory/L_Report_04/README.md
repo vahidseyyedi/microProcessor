@@ -69,7 +69,8 @@ void loop() {
 با اجرای این برنامه، ملودی ذخیره شده در آرایه‌ها از طریق بازر یا اسپیکر پخش می‌شود.
 
 **تصاویر:**
-
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/06%20Laboratory/L_Report_04/src/Untitled%20Sketch%202_bb.jpg)
+![](https://github.com/vahidseyyedi/microProcessor/blob/main/06%20Laboratory/L_Report_04/src/video_2025-01-18_18-44-58%20(1).gif)
 
 
 **نتیجه گیری:**
